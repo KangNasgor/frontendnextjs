@@ -1,0 +1,50 @@
+.form{
+  margin: auto;
+  border: solid 2px white;
+  border-radius: 2%;
+  width: 350px;
+  padding: 40px;
+}
+.formDiv{
+  margin: auto;
+}
+.formTitle{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.formTitle h1{
+  margin-bottom: 10px;
+}
+.formTitle p{
+  font-size: 10px;
+}
+.dataForm{
+  display: flex;
+  margin: auto;
+  width: 270px;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.submitButton{
+  color: black;
+  padding: 5px 10px 5px 10px;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+.successText{
+  text-align: center;
+  margin-top: 130px;
+  font-size: 50px;
+}
+.successText2{
+  text-align: center;
+}
+.mainMenuButton{
+  margin-top: 15px;
+  color: black;
+  padding: 5px 10px 5px 10px;
+  margin-left: 50%;
+  transform: translateX(-50%);
+  border-radius: 5px;
+}
